@@ -1,1 +1,1 @@
-# IS5
+# Ping-Pong Game
